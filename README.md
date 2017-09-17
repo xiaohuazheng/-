@@ -191,8 +191,8 @@
  - [vuejs 英文官网][137]
  - [vuejs 中文官网][138]
  - [vue.js API 中文][139]
- - [vue.js 中文入门 - vuejs作者][140]
- - [vue github][141]
+ - [vue.js 中文社区][140]
+ - [vue github 官方仓库][141]
  - [Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的组件库][142]
  - [vue最新实战 gank客户端（vue2 + vue-router2 + vuex +webpack+ es6）新手福利，干货多多][143]
  - [Welcome to the Vue Forum!][144]
@@ -200,7 +200,7 @@
  - [vue 性能优化][146]
  - [Vue 2.0 构建单页应用最佳实战][147]
  - [Vue 2.0源码学习][148]
- - [Vue中你不知道但却很实用的黑科技][149]
+ - [Mint UI 使用文档][149]
 
 ### 正则表达式
 
@@ -549,8 +549,8 @@ SF内有很多高手，可以前去排行榜看看。。。
   [137]: http://vuejs.org/
   [138]: http://cn.vuejs.org/
   [139]: http://cn.vuejs.org/api/
-  [140]: http://www.html-js.com/article/user/1152
-  [141]: https://github.com/vuejs/vue
+  [140]: https://www.vue-js.com/
+  [141]: https://github.com/vuejs/
   [142]: http://element.eleme.io/#/
   [143]: https://zhuanlan.zhihu.com/p/24865322
   [144]: http://forum.vuejs.org/
@@ -558,7 +558,7 @@ SF内有很多高手，可以前去排行榜看看。。。
   [146]: https://github.com/Coffcer/Blog/issues/3
   [147]: https://gold.xitu.io/post/583d1fe00ce463006baca2fa?utm_source=gold_browser_extension
   [148]: https://segmentfault.com/a/1190000007484936
-  [149]: https://zhuanlan.zhihu.com/p/24173419
+  [149]: http://mint-ui.github.io/docs/#/zh-cn2
   [150]: http://javascript.ruanyifeng.com/stdlib/regexp.html
   [151]: https://segmentfault.com/a/1190000005990323
   [152]: http://louiszhai.github.io/2016/06/13/regexp/
