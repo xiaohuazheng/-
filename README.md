@@ -4,7 +4,9 @@
 
 本以为自己收藏的站点多，可以很快搞定，没想到一入汇总深似海。还有很多不足&遗漏的地方，欢迎补充。有错误的地方，还请斧正...
 
-有好友反应和斧正，会及时更新，平时业务工作时也会不定期更新...2017-08-27
+博客地址：[https://xiaohuazheng.github.io/2016/10/01/awesome-frontend-resource/][1]
+
+有好友反应和斧正，会及时更新，平时业务工作时也会不定期更新...2017-12-12
 
 ## 内容精简
 
@@ -115,6 +117,7 @@
  - [业务代码中可用的css小技巧][85]
  - [You Don't Know CSS（一）][86]
  - [You Don't Know CSS（二）][87]
+ - [Css in Js][360]
 
 ### jQuery
 
@@ -246,6 +249,7 @@
  - [w3help][179]
  - [响应式布局指南][180]
  - [关于前端开发谈谈单元测试][181]
+ - [最权威的中文开发文档][361]
  
 ## 前端模块化开发类
 
@@ -410,7 +414,7 @@ SF内有很多高手，可以前去排行榜看看。。。
  - [前端进阶-让你升级的网络知识][313]
 
 
-  [1]: https://github.com/xiaohuazheng/-
+  [1]: https://xiaohuazheng.github.io/2016/10/01/awesome-frontend-resource/
   [2]: https://www.zhihu.com/question/20402689
   [3]: http://javascript.ruanyifeng.com/
   [4]: http://bonsaiden.github.io/JavaScript-Garden/zh/
@@ -723,3 +727,5 @@ SF内有很多高手，可以前去排行榜看看。。。
   [311]: http://blog.jobbole.com/78738/
   [312]: https://segmentfault.com/a/1190000006921322
   [313]: https://segmentfault.com/a/1190000004569460
+  [360]: http://www.10tiao.com/html/184/201711/2247485606/1.html
+  [361]: https://docschina.org/
