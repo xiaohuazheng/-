@@ -400,8 +400,6 @@ SF内有很多高手，可以前去排行榜看看。。。
  - [前端开发面试题][299]
  - [前端开发面试题 - GitHub][300]
  - [前端开发面试问题及答案整理][301]
- - [front-end development interview questions and answers][302]
- - [如何面试一名前端开发工程师？][303]
  - [前端实习生面试总结][304]
  - [前端开发面试题大收集][305]
  - [如何面试前端工程师？ - 知乎][306]
@@ -715,8 +713,8 @@ SF内有很多高手，可以前去排行榜看看。。。
   [299]: https://segmentfault.com/a/1190000000465431
   [300]: https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md
   [301]: https://segmentfault.com/a/1190000004071610
-  [302]: https://github.com/hawx1993/Front-end-Interview-questions
-  [303]: http://www.html-js.com/article/Large-search-front-team-column%202961
+  [302]: 
+  [303]: 
   [304]: http://www.cnblogs.com/xiaoruo/p/4665163.html
   [305]: https://github.com/paddingme/Front-end-Web-Development-Interview-Question
   [306]: http://www.zhihu.com/question/19568008
@@ -725,7 +723,7 @@ SF内有很多高手，可以前去排行榜看看。。。
   [309]: https://github.com/fex-team/interview-questions
   [310]: http://www.codeceo.com/article/40-important-html5-interviews.html
   [311]: http://blog.jobbole.com/78738/
-  [312]: https://segmentfault.com/a/1190000006921322
+  [312]: https://xiaohuazheng.github.io/2017/03/22/tcp-handshake/
   [313]: https://segmentfault.com/a/1190000004569460
   [360]: http://www.10tiao.com/html/184/201711/2247485606/1.html
   [361]: https://docschina.org/
