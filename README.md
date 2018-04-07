@@ -6,7 +6,7 @@
 
 博客地址：[https://xiaohuazheng.github.io/2016/10/01/awesome-frontend-resource/][1]
 
-有好友反应和斧正，会及时更新，平时业务工作时也会不定期更新...2017-12-12
+有好友反应和斧正，会及时更新，平时业务工作时也会不定期更新...2018-04-07
 
 ## 内容精简
 
@@ -299,6 +299,7 @@
  - [Webpack傻瓜指南（二）开发和部署技巧][217]
  - [入门Webpack，看这篇就够了][218]
  - [Webpack 2 入门教程][219]
+ - [Parcel中文网][302]
 
 ## 前端开源Git类
 
@@ -713,7 +714,7 @@ SF内有很多高手，可以前去排行榜看看。。。
   [299]: https://segmentfault.com/a/1190000000465431
   [300]: https://github.com/markyun/My-blog/blob/master/Front-end-Developer-Questions/Questions-and-Answers/README.md
   [301]: https://segmentfault.com/a/1190000004071610
-  [302]: 
+  [302]: https://parceljs.org/
   [303]: 
   [304]: http://www.cnblogs.com/xiaoruo/p/4665163.html
   [305]: https://github.com/paddingme/Front-end-Web-Development-Interview-Question
